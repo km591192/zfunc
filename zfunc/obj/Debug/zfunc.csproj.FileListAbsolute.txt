@@ -1,0 +1,9 @@
+D:\onu\algoritm\zfunc\zfunc\bin\Debug\zfunc.exe.config
+D:\onu\algoritm\zfunc\zfunc\bin\Debug\zfunc.exe
+D:\onu\algoritm\zfunc\zfunc\bin\Debug\zfunc.pdb
+D:\onu\algoritm\zfunc\zfunc\obj\Debug\zfunc.csprojResolveAssemblyReference.cache
+D:\onu\algoritm\zfunc\zfunc\obj\Debug\zfunc.Form1.resources
+D:\onu\algoritm\zfunc\zfunc\obj\Debug\zfunc.Properties.Resources.resources
+D:\onu\algoritm\zfunc\zfunc\obj\Debug\zfunc.csproj.GenerateResource.Cache
+D:\onu\algoritm\zfunc\zfunc\obj\Debug\zfunc.exe
+D:\onu\algoritm\zfunc\zfunc\obj\Debug\zfunc.pdb
